@@ -1,0 +1,5 @@
+Browser=Mozilla
+UserName_Id=email
+Password_Id=pass
+Login_Id=u_0_2
+StatusBox_XPath=//div[@class="_1mwp _5bu_ _17nh navigationFocus"]
